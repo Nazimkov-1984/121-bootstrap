@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.my_accordion {
+    width: 50%;
+}
+.my_title {
+    font-weight: bold;
+}
+.wrapper_slider{
+    width: 50%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: black;
+}
+.carousel-indicators button {
+background-color: black !important;
+}
